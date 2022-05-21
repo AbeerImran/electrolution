@@ -327,7 +327,7 @@ padding: 100px 0;
 }
 .to-top {
     background: white;
-    position:auto ;
+    position:fixed ;
     bottom: 16px;
     right: 32px;
     width: 50px;
