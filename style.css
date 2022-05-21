@@ -326,7 +326,7 @@ padding: 100px 0;
     color: rgba(39, 12, 244, 0.7);
 }
 .to-top {
-    background: white;
+    background: transparent;
     position: fixed;
     bottom: 16px;
     right: 32px;
